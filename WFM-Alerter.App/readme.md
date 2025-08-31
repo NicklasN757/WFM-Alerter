@@ -2,7 +2,7 @@
 This project is missing some files. The following files are missing, but are required for the project to run, these were removed from the repository for security reasons, and to avoid exposing sensitive information.
 
 ## host.json
-Needed for Azure Functions to run. This file is used to configure the Azure Functions host. It contains settings that control the behavior of the function app, such as logging, timeouts, and other runtime settings.
+Needed for Azure Functions to run. This file is used to configure the Azure Functions host. It contains settings that control the behavior of the function app, such as logging, endpoints and other runtime settings.
 
 ```json
 {
